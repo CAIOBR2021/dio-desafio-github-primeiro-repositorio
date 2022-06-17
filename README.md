@@ -8,10 +8,11 @@ Repositório criado para o desafio de projeto.
 + [Base de Conhecimento](https://portal.revendadesoftware.com.br/manuais/base-de-conhecimento/sintaxe-markdown)
 + [Sintaxe básica de escrita e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 + [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
++ [Badges](https://shields.io/)
 
 ## Santander Bootcamp Fullstack Developer :rocket:    
 <p align="right">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20PROGRESSO&color=9cf&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=yellow&style=for-the-badge"/>
 </p>
 
 - [x] Módulo 0 - Prepare-se para a Jornada
