@@ -1,7 +1,8 @@
-# Desafio de Projeto sobre Git/Github  da [DIO](https://www.dio.me/) :man_technologist: 
-Repositório criado para o desafio de projeto.
+   # Desafio de Projeto sobre Git/Github  da [DIO](https://www.dio.me/) :man_technologist: 
+   Repositório criado para o desafio de projeto.
 
-## Links úteis :star:
+> ## Links úteis :star:
+
 + [Git](https://git-scm.com/)
 + [Github](https://github.com/)
 + [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
@@ -10,9 +11,10 @@ Repositório criado para o desafio de projeto.
 + [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 + [Badges](https://shields.io/)
 
-## Santander Bootcamp Fullstack Developer :rocket:    
+> ## Santander Bootcamp Fullstack Developer :rocket:  
+  
 <p align="right">
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20progresso&color=yellowgreen&style=for-the-badge"/>
 </p>
 
 - [x] Módulo 0 - Prepare-se para a Jornada
@@ -21,4 +23,12 @@ Repositório criado para o desafio de projeto.
 - [ ] Módulo III - Angular
 - [ ] Módulo IV - JAVA
 - [ ] Módulo V - Spring Framework
+
+
+> :bulb: **Dica:** Lembre-se de valorizar as pequenas coisas da vida.
+
+
+
+
+
 
