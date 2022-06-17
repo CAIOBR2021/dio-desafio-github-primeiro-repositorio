@@ -9,7 +9,10 @@ Repositório criado para o desafio de projeto.
 + [Sintaxe básica de escrita e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 + [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
-## Santander Bootcamp Fullstack Developer :rocket:
+## Santander Bootcamp Fullstack Developer :rocket:    
+<p align="right">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20PROGRESSO&color=9cf&style=for-the-badge"/>
+</p>
 
 - [x] Módulo 0 - Prepare-se para a Jornada
 - [X] Módulo I - Conteúdo de Abertura
