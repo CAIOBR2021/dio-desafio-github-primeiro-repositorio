@@ -12,7 +12,7 @@ Repositório criado para o desafio de projeto.
 
 ## Santander Bootcamp Fullstack Developer :rocket:    
 <p align="right">
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20PROGRESSO&color=BLUE&style=for-the-badge"/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
 - [x] Módulo 0 - Prepare-se para a Jornada
