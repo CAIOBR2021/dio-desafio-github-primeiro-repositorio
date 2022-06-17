@@ -1,7 +1,9 @@
-# Repositório do Desafio de Projeto sobre Git/Github  da [DIO](https://www.dio.me/) :man_technologist:                          
-Desafio de Projeto sobre **[Git](https://git-scm.com/)/[Github](https://github.com/)**
+# Desafio de Projeto sobre Git/Github  da [DIO](https://www.dio.me/) :man_technologist: 
+Repositório criado para o desafio de projeto.
 
 ## Links úteis :star:
++ [Git](https://git-scm.com/)
++ [Github](https://github.com/)
 + [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 + [Base de Conhecimento](https://portal.revendadesoftware.com.br/manuais/base-de-conhecimento/sintaxe-markdown)
 + [Sintaxe básica de escrita e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
@@ -16,4 +18,3 @@ Desafio de Projeto sobre **[Git](https://git-scm.com/)/[Github](https://github.c
 - [ ] Módulo IV - JAVA
 - [ ] Módulo V - Spring Framework
 
-- Este é um {c:#B81365}texto colorido com hexadecimal{/c} 
