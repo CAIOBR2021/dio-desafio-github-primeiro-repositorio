@@ -6,7 +6,6 @@
 + [Git](https://git-scm.com/)
 + [Github](https://github.com/)
 + [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
-+ [Base de Conhecimento](https://portal.revendadesoftware.com.br/manuais/base-de-conhecimento/sintaxe-markdown)
 + [Sintaxe básica de escrita e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 + [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 + [Badges](https://shields.io/)
