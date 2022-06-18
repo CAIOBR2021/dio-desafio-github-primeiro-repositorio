@@ -25,8 +25,6 @@
 - [ ] Módulo V - Spring Framework
 
 
-> :bulb: **Dica:** Lembre-se de valorizar as pequenas coisas da vida.
-
 
 
 
