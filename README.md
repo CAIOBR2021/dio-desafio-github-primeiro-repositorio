@@ -18,7 +18,7 @@
 
 - [x] Módulo 0 - Prepare-se para a Jornada
 - [X] Módulo I - Conteúdo de Abertura
-- [ ] Módulo II - HTML/CSS3/JS
+- [X] Módulo II - HTML/CSS3/JS
 - [ ] Módulo III - Angular
 - [ ] Módulo IV - JAVA
 - [ ] Módulo V - Spring Framework
